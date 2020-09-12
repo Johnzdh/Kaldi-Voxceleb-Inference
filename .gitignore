@@ -1,0 +1,9 @@
+*.wav
+*.scp
+utt2spk
+utt2num_frames
+spk2utt
+utt2dur
+frame_shift
+*.log
+*.ark
